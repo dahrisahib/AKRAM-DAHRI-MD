@@ -51,7 +51,6 @@
 
    3..DEPLOY ON GITHUB ⤵️
    
-img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%"
 
 ## 🌟 BOT FEATURES
 ``bash
@@ -62,7 +61,9 @@ img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%"
 ✦ Futuristic Cool ICY UI
 ```
 
-
+### 🚀 **Connect With Me**
+[![YouTube]https://youtube.com/@akramdahri786?si=Rx_X83AqCma8My5v
+[![Facebook]https://www.facebook.com/profile.php?id=100074260673555
 
 </details>
 
