@@ -50,6 +50,8 @@
 
 
    3..DEPLOY ON GITHUB ⤵️
+   
+img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%"
 
 ## 🌟 BOT FEATURES
 ``bash
