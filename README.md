@@ -1,4 +1,4 @@
-# LITE-MD
+# AKRAM-DAHRI-MD
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 𝐒𝐢𝐦𝐩𝐥𝐞 𝐁𝐞𝐬𝐭 𝐖𝐡𝐚𝐭𝐬𝐚𝐩𝐩 𝐁𝐨𝐭 𝐂𝐫𝐞𝐚𝐭𝐞𝐝 𝐁𝐲 Akram Dahri 🌝💚
@@ -16,7 +16,7 @@
 
 *_Start by forking this repository to your own GitHub account. Click the button below to fork:_*
 
-  <a href="https://github.com/kingmalvn/LITE-MD/fork"><img title="AKRAM-DAHRI-MD" src="https://img.shields.io/badge/FORK-LITE-MDh?color=darkblue&style=for-the-badge&logo=stackshare"></a>
+  <a href="https://github.com/dahrisahib/AKRAM-DAHRI-MD/fork"><img title="AKRAM-DAHRI-MD" src="https://img.shields.io/badge/FORK-LITE-MDh?color=darkblue&style=for-the-badge&logo=stackshare"></a>
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/>
 
@@ -99,10 +99,10 @@ jobs:
 ### Thank You Dear
 
 > DEVELOPER OF AKRAM-DAHRI-MD 
-- [Lord Malvin ](https://github.com/techlord01)
+- [Dahri Sahib ](https://github.com/dahrisahib)
 - Creater and Owner Of AKRAM-DAHRI-MD
 
-> LITE-MD Helper
+> AKRAM-DAHRI-MD Helper
 - [Dahri Sahib](https://github.com/dahrisahib)
 - For helping in bot plugin files.
 ---
