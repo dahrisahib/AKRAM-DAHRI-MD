@@ -37,7 +37,7 @@
 
 2. **Obtain the Session ID**: After accessing the URL, you should see a session ID displayed. Copy this session ID.
 
-
+## 🚀 Deployment Steps
    
   1..DEPLOY ON HEROKU ⤵️
   
@@ -50,6 +50,16 @@
 
 
    3..DEPLOY ON GITHUB ⤵️
+
+## 🌟 BOT FEATURES
+``bash
+✦ Antidelete, Antiviewonce, Antilink
+✦ High speed YT, Tiktok, FB, IG Downloaders
+✦ 10+ AI models + Image anlysis AI
+✦ Fast low latensie, Powerful
+✦ Futuristic Cool ICY UI
+```
+
 
 
 </details>
