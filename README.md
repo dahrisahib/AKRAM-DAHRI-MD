@@ -60,6 +60,12 @@
 ✦ Fast low latensie, Powerful
 ✦ Futuristic Cool ICY UI
 ```
+#### `TOTAL PROFILE VIEWS 🧚```
+https://profile-counter.glitch.me/dahrisahib/count.svg
+
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
+
 
 ### 🚀 **Connect With Me**
 [![YouTube]https://youtube.com/@akramdahri786?si=Rx_X83AqCma8My5v
