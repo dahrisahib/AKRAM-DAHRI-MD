@@ -64,6 +64,6 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=25&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=DARK-SILENCE-MD;+WHATSAPP+BOT;MULTI-DEVICE+SUPPORT;POWERED+BY+DAHRI+SAHIB;FAST++SECURE++RELIABLE" alt="Animated Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=25&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=AKRAM-DAHRI-MD;+WHATSAPP+BOT;MULTI-DEVICE+SUPPORT;POWERED+BY+DAHRI+SAHIB;FAST++SECURE++RELIABLE" alt="Animated Typing SVG" />
 </p>
 
