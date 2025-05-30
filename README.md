@@ -52,8 +52,7 @@
   3..DEPLOY ON KOYEB⤵️
 <td><a href="https://app.koyeb.com/services/deploy?type=git&repository=JawadTechXD/JAWAD-MD" target="_blank"><img src="https://img.shields.io/badge/Koyeb-FF009D?style=for-the-badge&logo=koyeb&logoColor=white&labelColor=000000"/></a></td>
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
-AKRAM DAHRI 🔥🤭
-<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
+
 
  ## 🌟 BOT FEATURES
 ``bash
