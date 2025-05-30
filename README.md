@@ -63,8 +63,7 @@
 ✦ 10+ AI models + Image anlysis AI
 ✦ Fast low latensie, Powerful
 ✦ Futuristic Cool ICY UI
-```
 
----
+```---
 <a><img src='https://i.imgur.com/LyHic3i.gif'/>'/>
 
