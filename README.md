@@ -10,7 +10,7 @@
  <p align="center">
   <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=ff00ab&center=true&vCenter=true&multiline=false&lines=AKRAM-DAHRI-MD+WHATSAPP+BOT" alt="">
    
-## 𝐃𝐄𝐏𝐋𝐎𝐘 𝐒𝐄𝐓𝐔𝐏 ↕️
+**`FORK 🍴 AND STAR ⭐ AKRAM-DAHRI-MD`**
 
 **1. Fork This Repository**
 
@@ -67,3 +67,4 @@
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=25&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=AKRAM-DAHRI-MD;+WHATSAPP+BOT;MULTI-DEVICE+SUPPORT;POWERED+BY+DAHRI+SAHIB;FAST++SECURE++RELIABLE" alt="Animated Typing SVG" />
 </p>
 
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
