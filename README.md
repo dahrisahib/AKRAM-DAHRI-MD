@@ -69,6 +69,11 @@
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
+
+## 🌐 **SOCIAL MEDIA & SUPPORT**
+
+<div align="center">
+
 ### 🚀 **Connect With Me**
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/@AkramDahri786)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/akramdahri786)
