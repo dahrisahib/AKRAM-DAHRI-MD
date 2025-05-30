@@ -42,16 +42,16 @@
   1..DEPLOY ON HEROKU ⤵️
   
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2Fkingmalvn%2FLITE-MD) 
-   
+<a><img src='https://i.imgur.com/LyHic3i.gif'/>   
    
   2..DEPLOY ON RENDER ⤵️
 
 [![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/dahrisahib/AKRAM-DAHRI-MD.git)
-
+<a><img src='https://i.imgur.com/LyHic3i.gif'/>
 
   3..DEPLOY ON KOYEB⤵️
 <td><a href="https://app.koyeb.com/services/deploy?type=git&repository=JawadTechXD/JAWAD-MD" target="_blank"><img src="https://img.shields.io/badge/Koyeb-FF009D?style=for-the-badge&logo=koyeb&logoColor=white&labelColor=000000"/></a></td>
-
+<a><img src='https://i.imgur.com/LyHic3i.gif'/>
 
 ## 🌟 BOT FEATURES
 ``bash
@@ -61,6 +61,5 @@
 ✦ Fast low latensie, Powerful
 ✦ Futuristic Cool ICY UI
 <a><img src='https://i.imgur.com/LyHic3i.gif'/>
-```---
-<a><img src='https://i.imgur.com/LyHic3i.gif'/>'/>
+
 
