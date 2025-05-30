@@ -52,6 +52,15 @@
   3..DEPLOY ON KOYEB⤵️
 <td><a href="https://app.koyeb.com/services/deploy?type=git&repository=JawadTechXD/JAWAD-MD" target="_blank"><img src="https://img.shields.io/badge/Koyeb-FF009D?style=for-the-badge&logo=koyeb&logoColor=white&labelColor=000000"/></a></td>
 
+## 🗃️ PROJECT ARCHITECTS
+<div align="center">
+<a href="https://github.com/dahrisahib">
+<img src="https://github-readme-stats.vercel.app/api?username=AkramDahriMd&show_icons=true&theme=dark&border_color=00ffff&title_color=00ffff&icon_color=00ffff" width="400"/>
+  </a>
+</div>
+
+
+
 
 ## 🌟 BOT FEATURES
 ``bash
@@ -65,9 +74,3 @@
 ---
 <a><img src='https://i.imgur.com/LyHic3i.gif'/>'/>
 
-## 🗃️ PROJECT ARCHITECTS
-<div align="center">
-  <a href="https://github.com/dahrisahib">
-    <img src="https://github-readme-stats.vercel.app/api?username=AkramDahriMd&show_icons=true&theme=dark&border_color=00ffff&title_color=00ffff&icon_color=00ffff" width="400"/>
-  </a>
-</div>
