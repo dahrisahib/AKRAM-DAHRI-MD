@@ -49,8 +49,8 @@
 [![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/dahrisahib/AKRAM-DAHRI-MD.git)
 
 
-   3..DEPLOY ON GITHUB ⤵️
-   
+   3..DEPLOY ON KOYEB⤵️
+   https://app.koyeb.com/services/deploy?type=git&repository=JawadTechXD/JAWAD-MD
 
 ## 🌟 BOT FEATURES
 ``bash
