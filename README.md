@@ -8,7 +8,7 @@
 <img src = "https://files.catbox.moe/qt4g4j.jpg"  width="300" height="200">
 </img>
  <p align="center">
-  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=ff00ab&center=true&vCenter=true&multiline=false&lines=AKRAM-DAHRI-MD+WHATSAPP+BOT+MD" alt="">
+  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=ff00ab&center=true&vCenter=true&multiline=false&lines=AKRAM-DAHRI-MD+WHATSAPP+BOT" alt="">
    
 ## 𝐃𝐄𝐏𝐋𝐎𝐘 𝐒𝐄𝐓𝐔𝐏 ↕️
 
@@ -52,6 +52,7 @@
   3..DEPLOY ON KOYEB⤵️
 <td><a href="https://app.koyeb.com/services/deploy?type=git&repository=JawadTechXD/JAWAD-MD" target="_blank"><img src="https://img.shields.io/badge/Koyeb-FF009D?style=for-the-badge&logo=koyeb&logoColor=white&labelColor=000000"/></a></td>
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
+AKRAM DAHRI 🔥🤭
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
  ## 🌟 BOT FEATURES
