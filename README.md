@@ -54,6 +54,21 @@
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
 
+ <p align="center"><img src="https://profile-counter.glitch.me/{AKRAM-DAHRI-MD}/count.svg" alt="MRSHABAN40 :: Visitor's Count" old_src="https://profile-counter.glitch.me/{DAHRISAHIB}/count.svg" /></p>
+
+
+<p align="center">
+<a href="https://github.com/dahrisahib/AKRAM-DAHRU-MD"><img title="PUBLIC-BOT" src="https://img.shields.io/static/v1?label=Language&message=English&style=square&color=darkpink"></a> &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=AKRAM-DAHRI-MD&label=VIEWS&style=square&color=blue" />
+</p>
+</p> 
+
+<p align="center">
+  <a href="https://github.com/dahrisahib/AKRAM-DAHRI-MD"><img title="Release" src="https://img.shields.io/badge/Release-beta%20v5-cyan.svg?style=for-the-badge&logo=aqua" /></a>
+</p>
+
+
+
  ## 🌟 BOT FEATURES
 ``bash
 ✦ Antidelete, Antiviewonce, Antilink
