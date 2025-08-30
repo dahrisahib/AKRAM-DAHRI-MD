@@ -54,7 +54,7 @@
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
 
- <p align="center"><img src="https://profile-counter.glitch.me/{AKRAM-DAHRI-MD}/count.svg" alt="MRSHABAN40 :: Visitor's Count" old_src="https://profile-counter.glitch.me/{DAHRISAHIB}/count.svg" /></p>
+
 
 
 <p align="center">
